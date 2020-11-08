@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2C96-D020
+
+ Directory of C:\Users\SUMMU\Desktop\GitProject
+
+11/08/2020  10:16 PM    <DIR>          .
+11/08/2020  10:16 PM    <DIR>          ..
+11/08/2020  10:16 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  38,844,755,968 bytes free
